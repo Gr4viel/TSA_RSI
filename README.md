@@ -5,8 +5,8 @@ Repositório para o projeto da disciplina de TSA
 Escrever a ideia geral do projeto
 
 ### Autores
-Nome de Aluno 1
-Nome de Aluno 2
+Nome de Aluno 1: António Ferreira
+Nome de Aluno 2: Rafael Faustino
 
 ## Descrição da funcionalidade
 Por descrever ...
