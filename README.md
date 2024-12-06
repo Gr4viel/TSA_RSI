@@ -1,7 +1,7 @@
 # TSA_RSI
 Repositório para o projeto da disciplina de TSA
 
-## Ideia gerala do projeto
+## Ideia geral do projeto
 Escrever a ideia geral do projeto
 
 ### Autores
