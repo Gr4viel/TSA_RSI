@@ -17,3 +17,11 @@ echo "Quantas disciplinas quer adicionar?"
 read quantidade
 
 for ((i=1; i<=quantidade; i++)) # Loop para repetir a pergunta o número de vezes que colocamos em cima.
+
+do
+  echo "Qual é a $iª disciplina?"
+  read disciplina
+  echo "$disciplina" >> $arquivo
+done
+
+echo "As disciplinas foram guardadas no ficheiro!"
