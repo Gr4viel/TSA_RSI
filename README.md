@@ -15,3 +15,7 @@ Nome de Aluno 2: Rafael Faustino
 3 - Criar uma palavra passe segura aleatória <br />
 4 - (em progresso...) <br />
 ![alt text](Imagens/ZSj2.gif)
+
+### Links de apoio
+
+script 3 - https://stackoverflow.com/questions/44376846/creating-a-password-in-bash
