@@ -15,3 +15,4 @@ Nome de Aluno 2: Rafael Faustino
 3 - Criar uma palavra passe segura aleatória <br />
 4 - (em progresso...) <br />
 5 - (...)
+![alt text](Imagens/giphy.gif)
