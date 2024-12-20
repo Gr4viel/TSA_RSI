@@ -1,0 +1,8 @@
+Curso: TSA
+Disciplinas do curso TSA:
+Administração e Gestão de Redes
+Empreendedorismo
+Gestão de Projectos
+Projecto de Redes e Sistemas Informáticos
+Tecnologias de Scripting e Automação
+Tópicos Avançados de Segurança
