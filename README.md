@@ -14,5 +14,4 @@ Nome de Aluno 2: Rafael Faustino
 2 - Criar pastas com as disciplinas que o aluno escolheu no ficheiro <br />
 3 - Criar uma palavra passe segura aleatória <br />
 4 - (em progresso...) <br />
-5 - (...) <br />
 ![alt text](Imagens/ZSj2.gif)
